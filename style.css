@@ -1,0 +1,19 @@
+body {
+    background:beige;
+    color:brown;
+
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+
+}
+#camera{
+    border: 2px dashed brown;
+    height: 300px;
+    width: 350px;
+}
+.name_of_objects , #result_object_name , #result_object_accuracy {
+    color: brown;
+    
+}
